@@ -1,5 +1,5 @@
 {
-  "name": "mnpm",
+  "name": "mnpm-cli",
   "version": "1.0.0",
   "description": "meituan npm client",
   "main": "bin/mnpm",
