@@ -1,0 +1,28 @@
+{
+  "name": "mnpm",
+  "version": "1.0.0",
+  "description": "meituan npm client",
+  "main": "bin/mnpm",
+  "preferGlobal": true,
+  "bin": {
+    "mnpm": "./bin/mnpm"
+  },
+  "homepage": "https://github.com/springuper/mnpm",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:springuper/mnpm.git",
+    "web": "https://github.com/springuper/mnpm"
+  },
+  "bugs": {
+    "url": "https://github.com/springuper/mnpm/issues",
+    "email": "springuper@gmail.com"
+  },
+  "keywords": [
+    "mnpm"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "springuper <springuper@gmail.com>",
+  "license": "MIT"
+}
